@@ -1,6 +1,6 @@
 # ETD_Frontline
 ## プレイ画面
-![プレイ画面](https://github.com/AhojSystem/ETD_Frontline/blob/main/pic/M200_ETD12.png "プレイ画面")
+![プレイ画面](https://github.com/AhojSystem/ETD_Frontline/blob/main/pic/M200_ETD13.png "プレイ画面")
 
 ## 動作確認環境
 Windows10・11 / MacOS Monterey / Ubuntu22.04  
